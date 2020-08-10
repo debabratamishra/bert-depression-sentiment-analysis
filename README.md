@@ -1,2 +1,2 @@
 # sentiment-classification
-Sentiment Classification of Movie Reviews
+Sentiment Analysis on the basis of Social Media Posts to detect early stage depression
